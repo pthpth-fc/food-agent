@@ -1,0 +1,406 @@
+{
+  "recipes": [
+    {
+      "id": "recipe_001",
+      "name": "Dal Makhani",
+      "cuisine": "North Indian",
+      "meal_type": ["dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Black dal (urad dal)", "qty": 200, "unit": "g" },
+        { "name": "Rajma", "qty": 50, "unit": "g" },
+        { "name": "Butter", "qty": 3, "unit": "tbsp" },
+        { "name": "Tomato puree", "qty": 200, "unit": "ml" },
+        { "name": "Fresh cream", "qty": 3, "unit": "tbsp" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Cumin seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Garam masala", "qty": 1, "unit": "tsp" },
+        { "name": "Red chilli powder", "qty": 1, "unit": "tsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_002",
+      "name": "Palak Paneer",
+      "cuisine": "North Indian",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Spinach (palak)", "qty": 500, "unit": "g" },
+        { "name": "Paneer", "qty": 250, "unit": "g" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Tomato", "qty": 2, "unit": "piece" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Cream", "qty": 2, "unit": "tbsp" },
+        { "name": "Butter", "qty": 1, "unit": "tbsp" },
+        { "name": "Cumin seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Garam masala", "qty": 0.5, "unit": "tsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_003",
+      "name": "Aloo Gobhi",
+      "cuisine": "North Indian",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Potato", "qty": 3, "unit": "piece" },
+        { "name": "Cauliflower", "qty": 1, "unit": "piece" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Tomato", "qty": 2, "unit": "piece" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Cumin seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Turmeric powder", "qty": 0.5, "unit": "tsp" },
+        { "name": "Coriander powder", "qty": 1, "unit": "tsp" },
+        { "name": "Red chilli powder", "qty": 0.5, "unit": "tsp" },
+        { "name": "Fresh coriander", "qty": 10, "unit": "g" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_004",
+      "name": "Chole (Chana Masala)",
+      "cuisine": "North Indian",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Chickpeas (chana)", "qty": 300, "unit": "g" },
+        { "name": "Onion", "qty": 2, "unit": "piece" },
+        { "name": "Tomato", "qty": 3, "unit": "piece" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Chole masala", "qty": 2, "unit": "tbsp" },
+        { "name": "Cumin seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Oil", "qty": 2, "unit": "tbsp" },
+        { "name": "Fresh coriander", "qty": 10, "unit": "g" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_005",
+      "name": "Paneer Butter Masala",
+      "cuisine": "North Indian",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Paneer", "qty": 300, "unit": "g" },
+        { "name": "Tomato puree", "qty": 250, "unit": "ml" },
+        { "name": "Butter", "qty": 3, "unit": "tbsp" },
+        { "name": "Cream", "qty": 4, "unit": "tbsp" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Kasuri methi", "qty": 1, "unit": "tsp" },
+        { "name": "Garam masala", "qty": 1, "unit": "tsp" },
+        { "name": "Red chilli powder", "qty": 0.5, "unit": "tsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_006",
+      "name": "Rajma Chawal",
+      "cuisine": "North Indian",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Rajma (kidney beans)", "qty": 300, "unit": "g" },
+        { "name": "Basmati rice", "qty": 300, "unit": "g" },
+        { "name": "Onion", "qty": 2, "unit": "piece" },
+        { "name": "Tomato", "qty": 3, "unit": "piece" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Oil", "qty": 2, "unit": "tbsp" },
+        { "name": "Cumin seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Rajma masala", "qty": 1.5, "unit": "tbsp" },
+        { "name": "Fresh coriander", "qty": 10, "unit": "g" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_007",
+      "name": "Jeera Rice",
+      "cuisine": "North Indian",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Basmati rice", "qty": 300, "unit": "g" },
+        { "name": "Cumin seeds", "qty": 1.5, "unit": "tsp" },
+        { "name": "Butter", "qty": 1, "unit": "tbsp" },
+        { "name": "Oil", "qty": 1, "unit": "tbsp" },
+        { "name": "Salt", "qty": 1, "unit": "tsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_008",
+      "name": "Aloo Paratha",
+      "cuisine": "North Indian",
+      "meal_type": ["lunch"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Whole wheat flour (atta)", "qty": 400, "unit": "g" },
+        { "name": "Potato", "qty": 4, "unit": "piece" },
+        { "name": "Green chilli", "qty": 2, "unit": "piece" },
+        { "name": "Fresh coriander", "qty": 15, "unit": "g" },
+        { "name": "Ginger", "qty": 10, "unit": "g" },
+        { "name": "Butter", "qty": 4, "unit": "tbsp" },
+        { "name": "Cumin powder", "qty": 0.5, "unit": "tsp" },
+        { "name": "Amchur (dry mango powder)", "qty": 0.5, "unit": "tsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_009",
+      "name": "Veg Biryani",
+      "cuisine": "North Indian",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Basmati rice", "qty": 400, "unit": "g" },
+        { "name": "Mixed vegetables (carrot, beans, peas)", "qty": 300, "unit": "g" },
+        { "name": "Onion", "qty": 2, "unit": "piece" },
+        { "name": "Tomato", "qty": 2, "unit": "piece" },
+        { "name": "Yogurt", "qty": 100, "unit": "ml" },
+        { "name": "Biryani masala", "qty": 2, "unit": "tbsp" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Saffron", "qty": 1, "unit": "pinch" },
+        { "name": "Ghee", "qty": 2, "unit": "tbsp" },
+        { "name": "Fresh mint", "qty": 15, "unit": "g" },
+        { "name": "Fresh coriander", "qty": 15, "unit": "g" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_010",
+      "name": "Masala Dosa",
+      "cuisine": "South Indian",
+      "meal_type": ["lunch"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Dosa batter (ready-made)", "qty": 500, "unit": "ml" },
+        { "name": "Potato", "qty": 4, "unit": "piece" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Mustard seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Curry leaves", "qty": 10, "unit": "piece" },
+        { "name": "Green chilli", "qty": 2, "unit": "piece" },
+        { "name": "Turmeric powder", "qty": 0.5, "unit": "tsp" },
+        { "name": "Oil", "qty": 3, "unit": "tbsp" },
+        { "name": "Coconut chutney (ready-made)", "qty": 200, "unit": "g" },
+        { "name": "Sambar powder", "qty": 1, "unit": "tsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_011",
+      "name": "Sambar Rice",
+      "cuisine": "South Indian",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Rice", "qty": 300, "unit": "g" },
+        { "name": "Toor dal", "qty": 150, "unit": "g" },
+        { "name": "Mixed vegetables (drumstick, brinjal, tomato)", "qty": 300, "unit": "g" },
+        { "name": "Sambar powder", "qty": 2, "unit": "tbsp" },
+        { "name": "Tamarind", "qty": 20, "unit": "g" },
+        { "name": "Mustard seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Curry leaves", "qty": 10, "unit": "piece" },
+        { "name": "Dried red chilli", "qty": 2, "unit": "piece" },
+        { "name": "Oil", "qty": 2, "unit": "tbsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_012",
+      "name": "Idli Sambar",
+      "cuisine": "South Indian",
+      "meal_type": ["lunch"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Idli batter (ready-made)", "qty": 500, "unit": "ml" },
+        { "name": "Toor dal", "qty": 150, "unit": "g" },
+        { "name": "Tomato", "qty": 2, "unit": "piece" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Sambar powder", "qty": 2, "unit": "tbsp" },
+        { "name": "Tamarind", "qty": 15, "unit": "g" },
+        { "name": "Mustard seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Curry leaves", "qty": 10, "unit": "piece" },
+        { "name": "Coconut chutney (ready-made)", "qty": 200, "unit": "g" },
+        { "name": "Oil", "qty": 2, "unit": "tbsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_013",
+      "name": "Veg Fried Rice",
+      "cuisine": "Chinese",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Basmati rice (cooked, day old)", "qty": 400, "unit": "g" },
+        { "name": "Mixed vegetables (carrot, beans, capsicum, peas)", "qty": 300, "unit": "g" },
+        { "name": "Egg", "qty": 2, "unit": "piece" },
+        { "name": "Spring onion", "qty": 3, "unit": "piece" },
+        { "name": "Soy sauce", "qty": 2, "unit": "tbsp" },
+        { "name": "Vinegar", "qty": 1, "unit": "tbsp" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Oil", "qty": 3, "unit": "tbsp" },
+        { "name": "Black pepper", "qty": 0.5, "unit": "tsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_014",
+      "name": "Veg Hakka Noodles",
+      "cuisine": "Chinese",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Hakka noodles", "qty": 400, "unit": "g" },
+        { "name": "Cabbage", "qty": 150, "unit": "g" },
+        { "name": "Carrot", "qty": 2, "unit": "piece" },
+        { "name": "Capsicum", "qty": 1, "unit": "piece" },
+        { "name": "Spring onion", "qty": 3, "unit": "piece" },
+        { "name": "Soy sauce", "qty": 2, "unit": "tbsp" },
+        { "name": "Vinegar", "qty": 1, "unit": "tbsp" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Oil", "qty": 3, "unit": "tbsp" },
+        { "name": "Black pepper", "qty": 0.5, "unit": "tsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_015",
+      "name": "Paneer Manchurian",
+      "cuisine": "Chinese",
+      "meal_type": ["dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Paneer", "qty": 300, "unit": "g" },
+        { "name": "Capsicum", "qty": 1, "unit": "piece" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Spring onion", "qty": 2, "unit": "piece" },
+        { "name": "Soy sauce", "qty": 2, "unit": "tbsp" },
+        { "name": "Chilli sauce", "qty": 1, "unit": "tbsp" },
+        { "name": "Tomato ketchup", "qty": 1, "unit": "tbsp" },
+        { "name": "Cornflour", "qty": 3, "unit": "tbsp" },
+        { "name": "Ginger garlic paste", "qty": 1, "unit": "tbsp" },
+        { "name": "Oil", "qty": 3, "unit": "tbsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_016",
+      "name": "Khichdi",
+      "cuisine": "Light",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Rice", "qty": 200, "unit": "g" },
+        { "name": "Moong dal (yellow)", "qty": 150, "unit": "g" },
+        { "name": "Ghee", "qty": 2, "unit": "tbsp" },
+        { "name": "Cumin seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Turmeric powder", "qty": 0.5, "unit": "tsp" },
+        { "name": "Ginger", "qty": 10, "unit": "g" },
+        { "name": "Salt", "qty": 1, "unit": "tsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_017",
+      "name": "Dal Tadka with Rice",
+      "cuisine": "Light",
+      "meal_type": ["lunch", "dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Toor dal", "qty": 250, "unit": "g" },
+        { "name": "Basmati rice", "qty": 300, "unit": "g" },
+        { "name": "Tomato", "qty": 2, "unit": "piece" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Ghee", "qty": 2, "unit": "tbsp" },
+        { "name": "Cumin seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Mustard seeds", "qty": 0.5, "unit": "tsp" },
+        { "name": "Dried red chilli", "qty": 2, "unit": "piece" },
+        { "name": "Turmeric powder", "qty": 0.5, "unit": "tsp" },
+        { "name": "Fresh coriander", "qty": 10, "unit": "g" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_018",
+      "name": "Vegetable Soup",
+      "cuisine": "Light",
+      "meal_type": ["dinner"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Mixed vegetables (carrot, beans, peas, potato)", "qty": 400, "unit": "g" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Garlic", "qty": 4, "unit": "piece" },
+        { "name": "Butter", "qty": 1, "unit": "tbsp" },
+        { "name": "Black pepper", "qty": 0.5, "unit": "tsp" },
+        { "name": "Vegetable stock / bouillon", "qty": 1, "unit": "cube" },
+        { "name": "Fresh cream", "qty": 2, "unit": "tbsp" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_019",
+      "name": "Poha",
+      "cuisine": "Light",
+      "meal_type": ["lunch"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Flattened rice (poha)", "qty": 400, "unit": "g" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Potato", "qty": 1, "unit": "piece" },
+        { "name": "Green chilli", "qty": 2, "unit": "piece" },
+        { "name": "Mustard seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Curry leaves", "qty": 8, "unit": "piece" },
+        { "name": "Turmeric powder", "qty": 0.25, "unit": "tsp" },
+        { "name": "Oil", "qty": 2, "unit": "tbsp" },
+        { "name": "Lemon", "qty": 1, "unit": "piece" },
+        { "name": "Fresh coriander", "qty": 10, "unit": "g" },
+        { "name": "Peanuts", "qty": 30, "unit": "g" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    },
+    {
+      "id": "recipe_020",
+      "name": "Upma",
+      "cuisine": "South Indian",
+      "meal_type": ["lunch"],
+      "base_servings": 4,
+      "ingredients": [
+        { "name": "Semolina (rava/sooji)", "qty": 300, "unit": "g" },
+        { "name": "Onion", "qty": 1, "unit": "piece" },
+        { "name": "Green chilli", "qty": 2, "unit": "piece" },
+        { "name": "Mustard seeds", "qty": 1, "unit": "tsp" },
+        { "name": "Curry leaves", "qty": 8, "unit": "piece" },
+        { "name": "Ginger", "qty": 10, "unit": "g" },
+        { "name": "Peanuts", "qty": 30, "unit": "g" },
+        { "name": "Oil", "qty": 2, "unit": "tbsp" },
+        { "name": "Lemon", "qty": 1, "unit": "piece" },
+        { "name": "Fresh coriander", "qty": 10, "unit": "g" }
+      ],
+      "added_by": "system",
+      "added_at": "2026-03-16T00:00:00"
+    }
+  ]
+}

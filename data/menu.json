@@ -1,0 +1,56 @@
+{
+  "week_of": "2026-03-17",
+  "status": "planned",
+  "days": {
+    "monday": {
+      "date": "2026-03-17",
+      "breakfast": "Upma",
+      "lunch": "Masala Dosa",
+      "dinner": "Dal Makhani"
+    },
+    "tuesday": {
+      "date": "2026-03-18",
+      "breakfast": "Poha",
+      "lunch": "Aloo Paratha",
+      "dinner": "Palak Paneer"
+    },
+    "wednesday": {
+      "date": "2026-03-19",
+      "breakfast": "Idli Sambar",
+      "lunch": "Sambar Rice",
+      "dinner": "Veg Hakka Noodles"
+    },
+    "thursday": {
+      "date": "2026-03-20",
+      "breakfast": "Upma",
+      "lunch": "Aloo Gobhi + Jeera Rice",
+      "dinner": "Paneer Butter Masala"
+    },
+    "friday": {
+      "date": "2026-03-21",
+      "breakfast": "Poha",
+      "lunch": "Chole + Jeera Rice",
+      "dinner": "Rajma Chawal"
+    },
+    "saturday": {
+      "date": "2026-03-22",
+      "breakfast": "Idli Sambar",
+      "lunch": "Veg Fried Rice",
+      "dinner": "Paneer Manchurian"
+    },
+    "sunday": {
+      "date": "2026-03-23",
+      "breakfast": "Order in",
+      "lunch": "Order in",
+      "dinner": "Order in",
+      "note": "No cook day — all meals to be ordered or no-cook"
+    }
+  },
+  "order_schedule": [],
+  "change_log": [
+    {
+      "timestamp": "2026-03-15T00:00:00",
+      "change": "Initial menu planned for week of 2026-03-17"
+    }
+  ]
+}

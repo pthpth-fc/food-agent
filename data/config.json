@@ -1,0 +1,19 @@
+{
+  "household": {
+    "members": ["Member1", "Member2", "Member3", "Member4", "Member5"],
+    "default_count": 5,
+    "cook_name": "Cook",
+    "cook_phone": "+91XXXXXXXXXX"
+  },
+  "schedule": {
+    "menu_planning_day": "Sunday",
+    "menu_planning_time": "19:00",
+    "feedback_window_minutes": 120,
+    "morning_briefing_time": "08:00"
+  },
+  "ordering": {
+    "principle": "menu_first_then_order",
+    "avoid_unnecessary_orders": true,
+    "batch_items_within_days": 1
+  }
+}
